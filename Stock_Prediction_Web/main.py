@@ -600,5 +600,5 @@ with tab2:
 with tab3:
     st.header("🤖 Trợ lý AI dự báo xu hướng cổ phiếu")
     st.markdown("Hỏi tôi về xu hướng cổ phiếu, chỉ báo kỹ thuật, hoặc cách sử dụng hệ thống dự báo.")
-    botpress_iframe_url = "https://cdn.botpress.cloud/webchat/v3.1/shareable.html?configUrl=https://files.bpcontent.cloud/2025/07/17/04/20250717042032-HACMEXE8.json"
+    botpress_iframe_url = "https://cdn.botpress.cloud/webchat/v3.1/shareable.html?configUrl=https://files.bpcontent.cloud/2025/07/20/22/20250720224618-ACKAMFN5.json"
     st.components.v1.iframe(botpress_iframe_url, height=600, scrolling=True)
